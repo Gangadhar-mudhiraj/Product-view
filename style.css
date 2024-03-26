@@ -1,0 +1,23 @@
+#navigations a:hover {
+  color: rgb(238, 75, 11) !important;
+  opacity: 0.8;
+  font-size: 1.5rem !important;
+  text-decoration: underline;
+}
+
+main ::before {
+  margin-top: 20rem !important;
+  border: 15px solid red !important;
+  height: 20px;
+  width: 20px;
+}
+.img-fluid:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  object-fit: cover;
+}
+.images {
+  height: 35vmin;
+  width: 35vmin;
+  object-fit: cover;
+}
