@@ -1,7 +1,3 @@
-# Product View Web Page
-
-![Product View](path_to_your_image.png)
-
 ## Description
 
 The Product View Web Page is an extraordinary user interface (UI) built using HTML and Bootstrap. It provides a fully responsive design that adapts seamlessly to various devices and browsers. The layout, colors, and overall aesthetics have been carefully crafted to enhance the user experience.
